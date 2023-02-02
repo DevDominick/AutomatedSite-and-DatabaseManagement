@@ -4,9 +4,9 @@ This project provides a solution for copying a site and setting up a database, t
 
 The bash script performs the following tasks:
 
-- Copies the site to a backup directory
+- Copies the site from a directory to a new directory (eg /sites/sitename/)
 - Creates a new database and grants privileges to a user
-- Loads the SQL file into the new database
+- Loads the SQL file into the new database (can be used to autoput vaules such as $sitename)
 - Confirms that the database has been loaded successfully
 
 # Planned Features
