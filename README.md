@@ -13,7 +13,8 @@ The bash script performs the following tasks:
 
 - Auto subdomain such as user.yourdomain.com
 
-This project can be useful for automating the process of setting up a database and loading data into it, making it easier for users to manage their sites.
+# Information
 
-Join our discord
-discord.gg/landify
+- This project can be useful for automating the process of setting up a database and loading data into it, making it easier for users to manage their sites.
+
+- Join our discord: discord.gg/landify
