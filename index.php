@@ -10,7 +10,7 @@
     <body class="bg-dark">
     <div class="container my-5">
       <!-- Form -->
-      <form action="server/run_script.php" method="post" class="bg-dark text-light p-5">
+      <form action="script/run_script.php" method="post" class="bg-dark text-light p-5">
       <!-- Form group -->
       <div class="form-group">
         <!-- Form label -->
